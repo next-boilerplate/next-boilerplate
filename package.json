@@ -1,11 +1,47 @@
 {
   "name": "create-next-app-cli",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.0.1",
+  "description": "CLI for easily creating Next.js apps in one command",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Bunlong",
-  "license": "MIT"
+  "author": "Bunlong <bunlong.van@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ansi-escapes": "^3.1.0",
+    "chalk": "^2.3.2",
+    "commander": "^2.15.1",
+    "cross-spawn": "^6.0.5",
+    "execa": "^0.10.0",
+    "fs-extra": "^5.0.0",
+    "mkdirp-then": "^1.2.0",
+    "ms": "^2.1.1",
+    "mz": "^2.7.0",
+    "ora": "^2.0.0",
+    "promise": "^8.0.1"
+  },
+  "bin": {
+    "create-next-app-cli": "./bin/create-next-app-cli.js"
+  },
+  "repository": "https://github.com/themodernjavascript/create-next-app-cli",
+  "bugs": {
+    "url": "https://github.com/themodernjavascript/create-next-app-cli/issues"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "keywords": [
+    "next",
+    "react",
+    "reactjs",
+    "next.js",
+    "create-next-app-cli",
+    "create-next-app",
+    "create-react-app",
+    "boilerplate",
+    "server-side-rendering",
+    "zero-configuration",
+    "build-tools"
+  ]
 }
