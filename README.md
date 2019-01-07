@@ -16,13 +16,13 @@ Create Next App CLI with no build configuration.
 
 create-next-app-cli is available on npm:
 
-```javascript
+```
 npm install --global create-next-app-cli
 ```
 
 create-next-app-cli is available on yarn as well:
 
-```javascript
+```
 yarn add create-next-app-cli
 ```
 
@@ -32,7 +32,7 @@ You don't need to install or setup Webpack or Babel. They come with Next.js, so 
 
 Create a new Next.js app with default, bootstrap or material UI:
 
-```javascript
+```
 create-next-app my-app [--template bootstrap]
 ```
 
@@ -96,7 +96,7 @@ There are a bunch of examples in the [Next.js repo](https://github.com/zeit/next
 
 Run command below to use an example:
 
-```javascript
+```
 create-next-app example-app-name --example basic-css
 ```
 
@@ -110,4 +110,4 @@ You can find detailed instructions on using Next.js and many tips in [its docume
 
 ## License
 
-Create Next App CLI is open source software licensed as MIT.
+Create Next App CLI is open source software [licensed as MIT](https://github.com/themodernjavascript/create-next-app-cli/blob/master/LICENSE).
