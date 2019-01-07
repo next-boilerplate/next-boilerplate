@@ -1,6 +1,6 @@
 # Create Next App CLI
 
-> create-next-app-cli - Command line interface (CLI) for easily creating Next.js app in one command. It come with default, bootstrap and material UI and Next.js examples.
+create-next-app-cli - Command line interface (CLI) for easily creating Next.js app in one command. It come with default, bootstrap and material UI and Next.js examples.
 
 [![NPM](https://img.shields.io/npm/v/create-next-app-cli.svg)](https://www.npmjs.com/package/create-next-app-cli)
 
