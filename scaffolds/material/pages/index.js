@@ -1,15 +1,15 @@
-import React from 'react'
-import PropTypes from 'prop-types'
-import { withStyles } from 'material-ui/styles'
-import withRoot from '../src/withRoot'
+/* eslint-disable jsx-a11y/anchor-is-valid */
 
-import Grid from 'material-ui/Grid'
-import Paper from 'material-ui/Paper'
-import Typography from 'material-ui/Typography'
+import React from 'react';
+import PropTypes from 'prop-types';
+import Link from 'next/link';
+import { withStyles } from '@material-ui/core/styles';
+import Typography from '@material-ui/core/Typography';
+import Grid from '@material-ui/core/Grid';
+import Paper from '@material-ui/core/Paper';
 
-import Link from 'next/link'
-import Head from '../components/head'
-import Nav from '../components/nav'
+import Head from '../components/head';
+import Nav from '../components/nav';
 
 const styles = theme => ({
   root: {
@@ -26,16 +26,16 @@ const styles = theme => ({
   },
   description: {
     marginTop: 25
-  },
-})
+  }
+});
 
 class Index extends React.Component {
   render() {
-    const { classes } = this.props
+    const { classes } = this.props;
 
     return (
       <div>
-        <Head title="Home" />
+        <Head title="Create Next App CLI" />
         <Nav />
         <div className={classes.root}>
           <div>
@@ -46,7 +46,7 @@ class Index extends React.Component {
               To get started, edit <code>pages/index.js</code> and save to reload.
             </Typography>
           </div>
-          <Grid container spacing={24} justify='center' className={classes.row} align="left">
+          <Grid container spacing={24} justify='center' className={classes.row}>
             <Grid item xs={2} sm={2}>
               <Paper className={classes.papper}>
                 <p>
@@ -105,12 +105,12 @@ class Index extends React.Component {
           }
         `}</style>
       </div>
-    )
+    );
   }
 }
 
 Index.propTypes = {
-  classes: PropTypes.object.isRequired
-}
+  classes: PropTypes.object.isRequired,
+};
 
-export default withRoot(withStyles(styles)(Index))
+export default withStyles(styles)(Index);

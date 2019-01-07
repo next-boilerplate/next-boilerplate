@@ -1,6 +1,6 @@
 {
-  "name": "next-press-app",
-  "version": "1.0.0",
+  "name": "create-next-app-cli",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {

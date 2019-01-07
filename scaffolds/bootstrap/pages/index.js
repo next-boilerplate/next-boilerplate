@@ -4,7 +4,7 @@ import Nav from '../components/nav'
 
 export default () => (
   <div>
-    <Head title="Home" />
+    <Head title="Create Next App CLI" />
     <Nav />
 
     <div className="hero">
