@@ -35,7 +35,7 @@ You don't need to install or setup Webpack or Babel. They come with Next.js, so 
 Create a new Next.js app with `default`, `bootstrap` UI:
 
 ```
-create-next-app my-app [--template bootstrap]
+create-next-app my-app --template bootstrap
 ```
 
 It will create a directory called my-app inside the current folder.
