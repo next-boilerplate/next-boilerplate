@@ -94,7 +94,7 @@ Now you maybe ready to code and deploy your app!
 
 ## Starting Next.js Examples
 
-There are a bunch of [examples](#next-examples) in the [Next.js repo](https://github.com/zeit/next.js/tree/canary/examples) (and growing) that you can use to bootstrap your app.
+There are a bunch of [examples](#next-examples) in the [Next.js repository](https://github.com/zeit/next.js/tree/canary/examples) (and growing) that you can use to bootstrap your app.
 
 Run command below to use an example:
 
