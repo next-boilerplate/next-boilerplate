@@ -1,6 +1,6 @@
 # Create Next App CLI
 
-> create-next-app-cli - Command line interface (CLI) for easily creating Next.js app in one command. It come with default, bootstrap, material UI and Next.js examples.
+> create-next-app-cli - Command line interface (CLI) for easily creating Next.js app in one command. It come with default, bootstrap, material and Next.js examples.
 
 [![NPM](https://img.shields.io/npm/v/create-next-app-cli.svg)](https://www.npmjs.com/package/create-next-app-cli)
 
@@ -32,7 +32,7 @@ You don't need to install or setup Webpack or Babel. They come with Next.js, so 
 
 ## Creating an App
 
-Create a new Next.js app with default, bootstrap or material UI:
+Create a new Next.js app with `default`, `bootstrap` or `material` UI:
 
 ```
 create-next-app my-app [--template bootstrap]
