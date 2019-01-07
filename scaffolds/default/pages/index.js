@@ -8,19 +8,19 @@ export default () => (
     <Nav />
 
     <div className="hero">
-      <h1 className="title">Welcome to next-press-app (Next.js building tools)</h1>
+      <h1 className="title">Welcome to create-next-app-cli (Create Next.js App building tools)</h1>
       <p className="description">To get started, edit <code>pages/index.js</code> and save to reload.</p>
 
       <div className="row">
-        <Link href="https://github.com/zeit/next.js#getting-started">
+        <Link href="https://nextjs.org/docs/">
           <a className="card">
             <h3>Getting Started &rarr;</h3>
-            <p>Learn more about Next.js on Github</p>
+            <p>Learn more about Next.js on official website</p>
           </a>
         </Link>
-        <Link href="https://github.com/codefacebook/next-press-app">
+        <Link href="https://github.com/themodernjavascript/create-next-app-cli">
           <a className="card">
-            <h3>Next Press App &rarr;</h3>
+            <h3>Create Next App CLI &rarr;</h3>
             <p>Was this tools helpful?</p>
           </a>
         </Link>

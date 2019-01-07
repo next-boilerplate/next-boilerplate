@@ -40,7 +40,7 @@ class Index extends React.Component {
         <div className={classes.root}>
           <div>
             <Typography variant="display2" gutterBottom>
-              Welcome to next-press-app (Next.js building tools)
+              Welcome to create-next-app-cli (Create Next.js App building tools)
             </Typography>
             <Typography variant="subheading" gutterBottom className={classes.description}>
               To get started, edit <code>pages/index.js</code> and save to reload.
@@ -50,23 +50,23 @@ class Index extends React.Component {
             <Grid item xs={2} sm={2}>
               <Paper className={classes.papper}>
                 <p>
-                  <Link href="https://github.com/codefacebook/next-press-app">
+                  <Link href="https://nextjs.org/docs/">
                     <a className="card">
                       <h3>Getting Started &rarr;</h3>
                     </a>
                   </Link>
                 </p>
                 <Typography variant="caption" gutterBottom>
-                  <p>Learn more about Next.js on Github</p>
+                  <p>Learn more about Next.js on official website</p>
                 </Typography>
               </Paper>
             </Grid>
             <Grid item xs={2} sm={2}>
               <Paper className={classes.papper}>
                 <p>
-                  <Link href="https://github.com/codefacebook/next-press-app">
+                  <Link href="https://github.com/themodernjavascript/create-next-app-cli">
                     <a className="card">
-                      <h3>Next Press App &rarr;</h3>
+                      <h3>Create Next App CLI &rarr;</h3>
                     </a>
                   </Link>
                 </p>
@@ -78,7 +78,7 @@ class Index extends React.Component {
             <Grid item xs={2} sm={2}>
               <Paper className={classes.papper}>
                 <p>
-                  <Link href="https://github.com/codefacebook/next-press-app">
+                  <Link href="https://material-ui.com/">
                     <a className="card">
                       <h3>Material UI &rarr;</h3>
                     </a>

@@ -1,7 +1,7 @@
 import Link from 'next/link'
 
 const links = [
-  { href: 'https://github.com/codefacebook/next-press-app', label: 'Github' }
+  { href: 'https://github.com/themodernjavascript/create-next-app-cli', label: 'Github' }
 ].map(link => {
   link.key = `nav-link-${link.href}-${link.label}`
   return link

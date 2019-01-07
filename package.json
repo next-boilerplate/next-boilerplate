@@ -1,6 +1,6 @@
 {
   "name": "create-next-app-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "CLI for easily creating Next.js app in one command",
   "main": "index.js",
   "scripts": {
