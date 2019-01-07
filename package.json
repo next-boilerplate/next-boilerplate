@@ -1,7 +1,7 @@
 {
   "name": "create-next-app-cli",
   "version": "0.0.1",
-  "description": "CLI for easily creating Next.js apps in one command",
+  "description": "CLI for easily creating Next.js app in one command",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -22,7 +22,7 @@
     "promise": "^8.0.1"
   },
   "bin": {
-    "create-next-app-cli": "./bin/create-next-app-cli.js"
+    "create-next-app": "./bin/create-next-app-cli.js"
   },
   "repository": "https://github.com/themodernjavascript/create-next-app-cli",
   "bugs": {
