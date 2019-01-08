@@ -39,10 +39,10 @@ class Index extends React.Component {
         <Nav />
         <div className={classes.root}>
           <div>
-            <Typography variant="display2" gutterBottom>
+            <Typography variant="h3" gutterBottom>
               Welcome to create-next-app-cli (Create Next.js App building tools)
             </Typography>
-            <Typography variant="subheading" gutterBottom className={classes.description}>
+            <Typography variant="body1" gutterBottom className={classes.description}>
               To get started, edit <code>pages/index.js</code> and save to reload.
             </Typography>
           </div>
