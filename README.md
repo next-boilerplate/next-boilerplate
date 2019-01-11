@@ -1,6 +1,8 @@
 # Create Next App CLI
 
 create-next-app-cli is a command line interface (CLI) for easily creating [Next.js](https://github.com/zeit/next.js) apps in one command. It come with default template and Next.js examples.
+  
+Website: [https://create-next-app.github.io](https://create-next-app.github.io/)
 
 [![NPM](https://img.shields.io/npm/v/create-next-app-cli.svg)](https://www.npmjs.com/package/create-next-app-cli)
 
@@ -8,7 +10,6 @@ Create Next App CLI with no build configuration:
 
   - [Creating an App](#creating-an-app) – How to create a new Next.js app.
   - [User Guide](https://nextjs.org/docs/) – How to develop apps bootstrapped with Create Next App.
-  - Website: [https://create-next-app.github.io](https://create-next-app.github.io/)
 
 ## Features
 
