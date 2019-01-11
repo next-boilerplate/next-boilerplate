@@ -1,6 +1,6 @@
 {
   "name": "create-next-app-cli",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "CLI for easily creating Next.js app in one command",
   "author": "Bunlong <bunlong.van@gmail.com>",
   "license": "MIT",
@@ -21,7 +21,7 @@
     "zero-configuration",
     "build-tools"
   ],
-  "homepage": "https://github.com/themodernjavascript/react-papaparse.git",
+  "homepage": "https://create-next-app.github.io",
   "main": "index.js",
   "engines": {
     "npm": ">=4"
