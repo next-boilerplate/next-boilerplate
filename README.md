@@ -104,9 +104,6 @@ To bootstrap your app with example:
 3. And then run `create-next-app my-app --example basic-css`
 4. Well done!
 
-```
-create-next-app example-app-name --example basic-css
-```
 ## User Guide
 
 You can find detailed instructions on using Next.js and many tips in [its documentation](https://nextjs.org/docs/).
