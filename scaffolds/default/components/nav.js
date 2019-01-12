@@ -1,11 +1,11 @@
-import Link from 'next/link'
+import Link from 'next/link';
 
 const links = [
   { href: 'https://github.com/themodernjavascript/create-next-app-cli', label: 'Github' }
 ].map(link => {
   link.key = `nav-link-${link.href}-${link.label}`
   return link
-})
+});
 
 const Nav = () => (
   <nav>
@@ -54,6 +54,6 @@ const Nav = () => (
       }
     `}</style>
   </nav>
-)
+);
 
-export default Nav
+export default Nav;

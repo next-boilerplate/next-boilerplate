@@ -1,6 +1,6 @@
-import Link from 'next/link'
-import Head from '../components/head'
-import Nav from '../components/nav'
+import Link from 'next/link';
+import Head from '../components/head';
+import Nav from '../components/nav';
 
 export default () => (
   <div>
@@ -10,7 +10,6 @@ export default () => (
     <div className="hero">
       <h1 className="title">Welcome to create-next-app-cli (Create Next.js App building tools)</h1>
       <p className="description">To get started, edit <code>pages/index.js</code> and save to reload.</p>
-
       <div className="row">
         <Link href="https://nextjs.org/docs/">
           <a className="card">
@@ -74,4 +73,4 @@ export default () => (
       }
     `}</style>
   </div>
-)
+);

@@ -1,20 +1,19 @@
 {
   "name": "create-next-app-cli",
-  "version": "0.0.3",
+  "version": "0.0.7",
   "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "next",
     "build": "next build",
-    "start": "next start",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "next start"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "next": "^5.1.0",
-    "react": "^16.3.1",
-    "react-dom": "^16.3.1"
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
   }
 }
