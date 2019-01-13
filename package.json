@@ -1,6 +1,6 @@
 {
   "name": "create-next-app-cli",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "CLI for easily creating Next.js app in one command",
   "author": "Bunlong <bunlong.van@gmail.com>",
   "license": "MIT",
