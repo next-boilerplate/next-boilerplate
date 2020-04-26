@@ -13,8 +13,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "next": "^5.1.0",
-    "react": "^16.3.1",
-    "react-dom": "^16.3.1"
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
   }
 }

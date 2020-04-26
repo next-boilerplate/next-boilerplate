@@ -1,30 +1,30 @@
-# Create Next App CLI
+# Create Next App [![NPM](https://img.shields.io/npm/v/create-next-app-cli.svg)](https://www.npmjs.com/package/create-next-app-cli)
 
-create-next-app-cli is a command line interface (CLI) for easily creating [Next.js](https://github.com/zeit/next.js) apps in one command. It come with default, material and semantic templates and Next.js examples.
-  
-Official Website: [https://create-next-app.github.io](https://create-next-app.github.io/)
+Create Next App is a command line interface (create-next-app + CLI) for easily creating a [Next.js](https://nextjs.org) app by running one command with no build configuration. It come with default, material, bootstrap and semantic templates and Next.js examples.
 
-[![NPM](https://img.shields.io/npm/v/create-next-app-cli.svg)](https://www.npmjs.com/package/create-next-app-cli)
+Create Next App with no build configuration.
 
-Create Next App CLI with no build configuration:
-
-  - [Creating an App](#creating-an-app) – How to create a new Next.js app.
-  - [User Guide](https://nextjs.org/docs/) – How to develop apps bootstrapped with Create Next App.
+  * [Create a Next App](#create-a-next-app) – How to create a new app.
+  * [Start Next Examples](#start-next-examples) – How to bootstrap a new app with Next.js example.
 
 ## Features
 
-  - Templates ( default, material and semantic )
+You can create Next.js app with no build configuration that come with following features:
+
+  - Templates (default, material and semantic)
   - Next.js examples
 
-## Installing create-next-app CLI
+## Install
 
-create-next-app-cli is available on npm:
+To use create-next-app command line interface you have to install `create-next-app-cli`.
+
+create-next-app-cli is available on npm. It can be installed with the following command:
 
 ```
 npm install --global create-next-app-cli
 ```
 
-create-next-app-cli is available on yarn as well:
+create-next-app-cli is available on yarn as well. It can be installed with the following command:
 
 ```
 yarn add create-next-app-cli
@@ -32,7 +32,7 @@ yarn add create-next-app-cli
 
 You don't need to install or setup Webpack or Babel. They come with Next.js, so you can just start coding after running `create-next-app`.
 
-## Creating an App
+## Create a Next App
 
 Create a new Next.js app with `default` or `material` or `semantic` templates:
 
@@ -60,7 +60,7 @@ Inside that directory, it will generate the initial project structure and instal
 └── yarn.lock
 ```
 
-No configuration or complicated folder structures, just the files you need to build your app. Once the installation is done, you can open your project folder:
+No configuration or complicated folder structures, just the files you need to build your app. When the installation is done, you can open your project folder:
 
 ```
 cd my-app
@@ -94,7 +94,7 @@ Starts the application in production mode. The application should be compiled wi
 
 Now you maybe ready to code and deploy your app!
 
-## Starting Next.js Examples
+## Start Next Examples
 
 There are a bunch of examples in the Next.js repository that you can use to bootstrap your app.
 
@@ -105,10 +105,27 @@ To bootstrap your app with example:
 3. And then run `create-next-app my-app --example basic-css`
 4. Well done!
 
-## User Guide
+<!-- ## User Guide
 
-You can find detailed instructions on using Next.js and many tips in [its documentation](https://nextjs.org/docs/).
+You can find detailed instructions on using Next.js and many tips in [its documentation](https://nextjs.org/docs/). -->
 
-## License
+## 💖 Wrap Up
 
-Create Next App CLI is open source software [licensed as MIT](https://github.com/themodernjavascript/create-next-app-cli/blob/master/LICENSE).
+If you think any of the `create-next-app-cli` can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to watch/star this repository to revisit.
+
+## 🌟 Contribution
+
+We'd love to have your helping hand on contributions to `create-next-app-cli` by forking and sending a pull request!
+
+Your contributions are heartily ♡ welcome, recognized and appreciated. (✿◠‿◠)
+
+How to contribute:
+
+- Open pull request with improvements
+- Discuss ideas in issues
+- Spread the word
+- Reach out with any feedback
+
+## ⚖️ License
+
+The MIT License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)

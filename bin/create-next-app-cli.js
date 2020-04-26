@@ -22,10 +22,9 @@ program
   .option('-e, --example <example-path>', consoles.example())
   .allowUnknownOption()
   .on('--help', consoles.help)
-  .parse(process.argv);
+  .parse(process.argv)
 
 const example = program.example
-
 const template = program.template
 
 createNextAppCLI({
