@@ -19,7 +19,7 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-package-lock.json
+# package-lock.json
 
 /www/node_modules
 /www/.next

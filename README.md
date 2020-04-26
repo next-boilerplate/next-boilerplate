@@ -1,6 +1,6 @@
 # Create Next App [![NPM](https://img.shields.io/npm/v/create-next-app-cli.svg)](https://www.npmjs.com/package/create-next-app-cli)
 
-Create Next App is a command line interface (create-next-app + CLI) for easily creating [Next.js](https://nextjs.org) apps in one command with no build configuration. It come with default, material and semantic templates and all Next.js examples.
+Create Next App is a command line interface (create-next-app + CLI) for easily creating [Next.js](https://nextjs.org) app in one command with no build configuration. It come with default, material and semantic templates and all Next.js examples.
 
 Create Next App with no build configuration.
 
