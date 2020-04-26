@@ -13,7 +13,7 @@ You can create Next.js app with no build configuration that come with following 
   - Templates (default, material and semantic)
   - Next.js examples
 
-## Installing
+## Install
 
 To use create-next-app command line interface you have to install `create-next-app-cli`.
 
@@ -31,7 +31,7 @@ yarn add create-next-app-cli
 
 You don't need to install or setup Webpack or Babel. They come with Next.js, so you can just start coding after running `create-next-app`.
 
-## Create an Next App
+## Create a Next App
 
 Create a new Next.js app with `default` or `material` or `semantic` templates:
 
