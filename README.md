@@ -1,10 +1,11 @@
-# Create Next App
+# Create Next App [![NPM](https://img.shields.io/npm/v/create-next-app-cli.svg)](https://www.npmjs.com/package/create-next-app-cli)
 
 Create Next App is a command line interface (create-next-app + CLI) for easily creating [Next.js](https://nextjs.org) apps in one command with no build configuration. It come with default, material and semantic templates and all Next.js examples.
 
-> Create Next App with no build configuration.  
+Create Next App with no build configuration.
 
-[![NPM](https://img.shields.io/npm/v/create-next-app-cli.svg)](https://www.npmjs.com/package/create-next-app-cli)
+  * [Create a Next App](#create-a-next-app) – How to create a new app.
+  * [Start Next Examples](#start-next-examples) – How to bootstrap a new app with Next.js example.
 
 ## Features
 
@@ -110,11 +111,11 @@ You can find detailed instructions on using Next.js and many tips in [its docume
 
 ## 💖 Wrap Up
 
-If you think any of the `create-next-app` can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to watch/star this repository to revisit.
+If you think any of the `create-next-app-cli` can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to watch/star this repository to revisit.
 
 ## 🌟 Contribution
 
-We'd love to have your helping hand on contributions to `create-next-app` by forking and sending a pull request!
+We'd love to have your helping hand on contributions to `create-next-app-cli` by forking and sending a pull request!
 
 Your contributions are heartily ♡ welcome, recognized and appreciated. (✿◠‿◠)
 
