@@ -8,12 +8,14 @@ Create Next App is a command line interface (create-next-app + CLI) for easily c
 
 ## Features
 
+You can create Next.js app with no build configuration that come with following feature:
+
   - Templates (default, material and semantic)
   - Next.js examples
 
 ## Installing
 
-To use create-next-app command line interface you need to install `create-next-app-cli`
+To use create-next-app command line interface you have to install `create-next-app-cli`.
 
 create-next-app-cli is available on npm. It can be installed with the following command:
 
@@ -57,7 +59,7 @@ Inside that directory, it will generate the initial project structure and instal
 └── yarn.lock
 ```
 
-No configuration or complicated folder structures, just the files you need to build your app. Once the installation is done, you can open your project folder:
+No configuration or complicated folder structures, just the files you need to build your app. When the installation is done, you can open your project folder:
 
 ```
 cd my-app
@@ -91,7 +93,7 @@ Starts the application in production mode. The application should be compiled wi
 
 Now you maybe ready to code and deploy your app!
 
-## Start Next.js Examples
+## Start Next Examples
 
 There are a bunch of examples in the Next.js repository that you can use to bootstrap your app.
 
