@@ -24,4 +24,5 @@ package-lock.json
 /www/node_modules
 /www/.next
 /www/package-lock.json
+/www/yarn.lock
 /www/out
