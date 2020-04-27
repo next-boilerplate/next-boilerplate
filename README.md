@@ -41,7 +41,7 @@ To create a new Next.js app called <i>my-app</i> with `default` or `material` or
 3. And then run `create-next-app my-app --template default`
 4. Well done!
 
-It will create a directory called my-app inside the current folder.
+It will create a directory called <i>my-app</i> inside the current folder.
 Inside that directory, it will generate the initial project structure and install the transitive dependencies:
 
 ```
