@@ -4,7 +4,7 @@ Create Next App allows you to create a [Next.js](https://nextjs.org) app by runn
 
 Create Next App with no build configuration.
 
-  * [Create a Next App in seconds](#create-a-next-app-in-seconds) – How to create a new app.
+  * [Create a Next App](#create-a-next-app-in-seconds) – How to create a new app.
   * [Start Next Examples](#start-next-examples) – How to bootstrap a new app with Next.js example.
 
 ## Features
