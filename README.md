@@ -1,6 +1,6 @@
 # Create Next App [![NPM](https://img.shields.io/npm/v/create-next-app-cli.svg)](https://www.npmjs.com/package/create-next-app-cli)
 
-Create Next App is a command line interface (create-next-app + CLI) for easily creating a [Next.js](https://nextjs.org) app by running one command with no build configuration. It come with default, material, bootstrap and semantic templates and Next.js examples.
+Create Next App allows you to create a [Next.js](https://nextjs.org) app by running one command. It come with default, material, bootstrap and semantic templates and Next.js examples.
 
 Create Next App with no build configuration.
 
@@ -9,36 +9,37 @@ Create Next App with no build configuration.
 
 ## Features
 
-You can create Next.js app with no build configuration that come with following features:
+You can create a Next.js app by running one command with no build configuration that come with following features:
 
-  - Templates (default, material and semantic)
+  - Templates (default, material, bootstrap and semantic)
   - Next.js examples
 
 ## Install
 
-To use create-next-app command line interface you have to install `create-next-app-cli`.
+To use `create-next-app` command line interface you have to install `create-next-app-cli`.
 
-create-next-app-cli is available on npm. It can be installed with the following command:
+`create-next-app-cli` is available on npm. It can be installed with the following command:
 
 ```
 npm install --global create-next-app-cli
 ```
 
-create-next-app-cli is available on yarn as well. It can be installed with the following command:
+`create-next-app-cli` is available on yarn as well. It can be installed with the following command:
 
 ```
-yarn add create-next-app-cli
+yarn global add create-next-app-cli
 ```
 
 You don't need to install or setup Webpack or Babel. They come with Next.js, so you can just start coding after running `create-next-app`.
 
-## Create a Next App
+## Create a Next App in seconds
 
-Create a new Next.js app with `default` or `material` or `semantic` templates:
+To create a new Next.js app called <i>my-app</i> with `default` or `material` or `bootstrap` or `semantic` templates.
 
-```
-create-next-app my-app --template default
-```
+1. Go to [https://create-next-app.js.org](https://create-next-app.js.org/#templates)
+2. Choose a template to create your Next.js app (such as default)
+3. And then run `create-next-app my-app --template default`
+4. Well done!
 
 It will create a directory called my-app inside the current folder.
 Inside that directory, it will generate the initial project structure and install the transitive dependencies:
@@ -60,7 +61,7 @@ Inside that directory, it will generate the initial project structure and instal
 └── yarn.lock
 ```
 
-No configuration or complicated folder structures, just the files you need to build your app. When the installation is done, you can open your project folder:
+No configuration or complicated folder structures, just the files you need to build your app. When the installation is done, you can open your project folder, run this command:
 
 ```
 cd my-app
@@ -100,10 +101,12 @@ There are a bunch of examples in the Next.js repository that you can use to boot
 
 To bootstrap your app with example:
 
-1. Go to [https://create-next-app.github.io](https://create-next-app.github.io/#examples)
+1. Go to [https://create-next-app.js.org](https://create-next-app.js.org/#examples)
 2. Choose an example to bootstrap your app (such as basic-css)
 3. And then run `create-next-app my-app --example basic-css`
 4. Well done!
+
+Now you maybe ready to code and deploy your app!
 
 <!-- ## User Guide
 

@@ -81,7 +81,7 @@ class Index extends React.Component {
               Create Next App
             </Typography>
             <Typography variant="body1" gutterBottom>
-              Create <a href="https://github.com/zeit/next.js" target="_blank">Next.js</a> App building tools
+              Set up a <a href="https://github.com/zeit/next.js" target="_blank">Next.js</a> app by running one command.
             </Typography>
             <Button href={'https://github.com/Bunlong/create-next-app'} variant="contained" color="secondary" className={classes.button}>
               <SvgIcon style={{color: 'white'}}>
@@ -105,7 +105,7 @@ class Index extends React.Component {
             <Grid container item spacing={0} justify="center">
               <Grid item lg={6} xl={6} xs={12}>
                 <Typography variant="body1" gutterBottom>
-                  <a href="https://nextjs.org" target="_blank">Next.js</a> is a very popular <a href="https://nodejs.org/en/about/" target="_blank">Node.js</a> framework which enables an easy server-side React rendering, and provides many other amazing features.
+                  Next.js is a framework for building server side rendering applications.
                 </Typography>
               </Grid>
             </Grid>
@@ -120,7 +120,7 @@ class Index extends React.Component {
             <Grid container item spacing={0} justify="center">
               <Grid item lg={6} xl={6} xs={12}>
                 <Typography variant="body1" gutterBottom>
-                  Create Next App is a command line interface (create-next-app + CLI) for easily creating a Next.js app by running one command with no build configuration. It come with default, material, bootstrap and semantic templates and Next.js examples.
+                  Create Next App is a CLI tool allows you to quickly create & run React applications with no build configuration. It come with default, material, bootstrap and semantic templates and Next.js examples.
                 </Typography>
               </Grid>
             </Grid>
@@ -135,10 +135,10 @@ class Index extends React.Component {
             <Grid container item spacing={0} justify="center" >
               <Grid item lg={6} xl={6} xs={12}>
                 <Typography variant="body1" gutterBottom>
-                  To use create-next-app command line interface you have to install <code>create-next-app-cli</code>.
+                  To use <code>create-next-app</code> command line interface you have to install <code>create-next-app-cli</code>.
                 </Typography>
                 <Typography variant="body1" gutterBottom>
-                  create-next-app-cli is available on npm. It can be installed with the following command:
+                  <code>create-next-app-cli</code> is available on npm. It can be installed with the following command:
                 </Typography>
                 <pre>
                   <code className="language-javascript">
@@ -146,11 +146,11 @@ class Index extends React.Component {
                   </code>
                 </pre>
                 <Typography variant="body1" gutterBottom>
-                  create-next-app-cli is available on yarn as well. It can be installed with the following command:
+                  <code>create-next-app-cli</code> is available on yarn as well. It can be installed with the following command:
                 </Typography>
                 <pre>
                   <code className="language-javascript">
-                    {`yarn add create-next-app-cli`}
+                    {`yarn global add create-next-app-cli`}
                   </code>
                 </pre>
                 <Typography variant="body1" gutterBottom>
@@ -158,10 +158,10 @@ class Index extends React.Component {
                 </Typography>
               </Grid>
             </Grid>
-            <Grid container item spacing={0} justify="center">
+            <Grid container item spacing={0} justify="center" id="templates">
               <Grid item lg={6} xl={6} xs={12}>
                 <Typography variant="h4" gutterBottom>
-                  Create a Next App
+                  Create a Next App in seconds
                 </Typography>
                 <hr/>
               </Grid>
@@ -169,7 +169,7 @@ class Index extends React.Component {
             <Grid container item spacing={0} justify="center" >
               <Grid item lg={6} xl={6} xs={12}>
                 <Typography variant="body1" gutterBottom>
-                  Create a new Next.js app with <code>default</code> or <code>material</code> or <code>bootstrap</code> or semantic templates.
+                  To create a new Next.js app called <i>my-app</i> with <code>default</code> or <code>material</code> or <code>bootstrap</code> or <code>semantic</code> templates, run this command:
                 </Typography>
                 <Grid container spacing={24}>
                   <Grid item lg={4} xl={4} xs={12}>
@@ -180,7 +180,7 @@ class Index extends React.Component {
                     </label>
                   </Grid>
                 </Grid>
-                <div id="templates">
+                <div>
                   <Grid container spacing={24}>
                     <Grid item lg={4} xl={4} xs={12}>
                       <Select
@@ -221,7 +221,7 @@ class Index extends React.Component {
                   </code>
                 </pre>
                 <Typography variant="body1" gutterBottom>
-                  No configuration or complicated folder structures, just the files you need to build your app. When the installation is done, you can open your project folder:
+                  No configuration or complicated folder structures, just the files you need to build your app. When the installation is done, you can open your project folder, run this command:
                 </Typography>
                 <pre>
                   <code className="language-javascript">
@@ -281,7 +281,7 @@ class Index extends React.Component {
                 </Typography>
               </Grid>
             </Grid>
-            <Grid container item spacing={0} justify="center">
+            <Grid container item spacing={0} justify="center" id="examples">
               <Grid item lg={6} xl={6} xs={12}>
                 <Typography variant="h4" gutterBottom>
                   Start Next Examples
@@ -303,7 +303,7 @@ class Index extends React.Component {
                     </label>
                   </Grid>
                 </Grid>
-                <div id="examples">
+                <div>
                   <Grid container spacing={24}>
                     <Grid item lg={4} xl={4} xs={12}>
                       <Select

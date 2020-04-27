@@ -1,7 +1,7 @@
 {
   "name": "create-next-app-cli",
   "version": "1.0.1",
-  "description": "Create Next App is a command line interface (create-next-app + CLI) for easily creating Next.js apps in one command with no build configuration.",
+  "description": "Create Next App allows you to create a [Next.js](https://nextjs.org) app by running one command.",
   "author": "Bunlong <bunlong.van@gmail.com>",
   "license": "MIT",
   "repository": "https://github.com/Bunlong/create-next-app",
@@ -21,7 +21,7 @@
     "zero-configuration",
     "build-tools"
   ],
-  "homepage": "https://create-next-app.github.io",
+  "homepage": "https://create-next-app.js.org",
   "main": "index.js",
   "engines": {
     "npm": ">=4"
