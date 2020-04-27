@@ -21,7 +21,6 @@ const styles = theme => ({
   },
   button: {
     margin: theme.spacing.unit,
-    backgroundColor: '#dc3545',
     color: '#fff',
     marginTop: 20
   }
@@ -30,6 +29,7 @@ const styles = theme => ({
 const templateOptions = [
   { value: 'default', label: 'default' },
   { value: 'material', label: 'material' },
+  { value: 'bootstrap', label: 'bootstrap' },
   { value: 'semantic', label: 'semantic' }
 ];
 
@@ -71,7 +71,7 @@ class Index extends React.Component {
       <div>
         <Head
           title="Create Next App"
-          description="Create Next App is a command line interface for easily creating a Next.js app by running one command with no build configuration."
+          description="Create Next App allows you to create a Next.js app by running one command."
           keywords="next, nextjs, react, reactjs, create-next-app, create-next-app-cli, create-react-app, server-side-rendering, zero-configuration, build-tools, boilerplate"
         />
         <Nav />
@@ -315,7 +315,7 @@ class Index extends React.Component {
                   </Grid>
                 </div>
                 <Typography variant="body1" gutterBottom className="section">
-                  And run command below to bootstrap your app:
+                  And run command below to bootstrap your app called <i>my-app</i>:
                 </Typography>
                 <pre>
                   <code className="language-javascript">

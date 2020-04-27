@@ -20,7 +20,7 @@ function Nav(props) {
 
   return (
     <div className={classes.root}>
-      <AppBar position="static">
+      <AppBar position="static" style={{ background: '#000' }}>
         <Toolbar>
           <Typography variant="h6" color="inherit" className={classes.grow}>
             Create Next App
