@@ -138,10 +138,10 @@ class Index extends React.Component {
             <Grid container item spacing={0} justify="center" >
               <Grid item lg={6} xl={6} xs={12}>
                 <Typography variant="body1" gutterBottom>
-                  To use <code>create-next-app</code> command line interface you have to install <code>create-next-app-cli</code>.
+                  To use create-next-app command line interface you have to install <code>create-next-app-cli</code>.
                 </Typography>
                 <Typography variant="body1" gutterBottom>
-                  <code>create-next-app-cli</code> is available on npm. It can be installed with the following command:
+                  create-next-app-cli is available on npm. It can be installed with the following command:
                 </Typography>
                 <pre>
                   <code className="language-javascript">
@@ -149,7 +149,7 @@ class Index extends React.Component {
                   </code>
                 </pre>
                 <Typography variant="body1" gutterBottom>
-                  <code>create-next-app-cli</code> is available on yarn as well. It can be installed with the following command:
+                  create-next-app-cli is available on yarn as well. It can be installed with the following command:
                 </Typography>
                 <pre>
                   <code className="language-javascript">
@@ -157,7 +157,7 @@ class Index extends React.Component {
                   </code>
                 </pre>
                 <Typography variant="body1" gutterBottom>
-                  You don't need to install or setup Webpack or Babel. They come with Next.js, so you can just start coding after running <code>create-next-app</code>.
+                  You don't need to install or setup Webpack or Babel. They come with Next.js, so you can just start coding after running create-next-app command line.
                 </Typography>
               </Grid>
             </Grid>
