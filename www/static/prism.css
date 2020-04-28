@@ -224,39 +224,3 @@ pre[data-line] {
 .command-line-prompt > span[data-prompt]:before {
 	content: attr(data-prompt);
 }
-
-p code {
-  background-color: rgba(27,31,35,.05);
-  border-radius: 3px;
-  margin: 0;
-  padding: .2em .4em;
-}
-
-h5 code {
-  background-color: rgba(27,31,35,.05);
-  border-radius: 3px;
-  margin: 0;
-  padding: .2em .4em;
-}
-
-p.section {
-  margin-top: 15px;
-}
-
-p ul {
-  margin-bottom: 0;
-}
-
-footer {
-  margin-top: 2rem;
-  padding: 2rem 0;
-  border-top: 1px solid #e7e7e7;
-  color: grey;
-  text-align: center;
-}
-
-li {
-  display: list-item;
-  text-align: -webkit-match-parent;
-  margin-bottom: 10px;
-}

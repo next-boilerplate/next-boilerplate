@@ -10,6 +10,7 @@ const Head = (props) => (
   <NextHead>
     <meta charSet="UTF-8" />
     <title>{props.title || ''}</title>
+    <link href="./static/style.css" rel="stylesheet" />
     <link href="./static/prism.css" rel="stylesheet" />
     <script src="./static/prism.js"></script>
     <meta name="description" content={props.description || defaultDescription} />

@@ -16,7 +16,7 @@ You can create a Next.js app by running one command with no build configuration 
 
 ## Install
 
-To use `create-next-app` command line interface you have to install `create-next-app-cli`.
+To use create-next-app command line interface you have to install `create-next-app-cli`.
 
 `create-next-app-cli` is available on npm. It can be installed with the following command:
 
@@ -30,13 +30,13 @@ npm install --global create-next-app-cli
 yarn global add create-next-app-cli
 ```
 
-You don't need to install or setup Webpack or Babel. They come with Next.js, so you can just start coding after running `create-next-app`.
+You don't need to install or setup Webpack or Babel. They come with Next.js, so you can just start coding after running create-next-app command line.
 
 ## Create a Next App in seconds
 
 To create a new Next.js app called <i>my-app</i> with `default` or `material` or `bootstrap` or `semantic` templates.
 
-1. Go to [https://create-next-app.js.org](https://create-next-app.js.org/#templates)
+1. Go to [https://create-next-app.js.org/#templates](https://create-next-app.js.org/#templates)
 2. Choose a template to create your Next.js app (such as default)
 3. And then run `create-next-app my-app --template default`
 4. Well done!
@@ -101,7 +101,7 @@ There are a bunch of examples in the Next.js repository that you can use to boot
 
 To bootstrap your app with example:
 
-1. Go to [https://create-next-app.js.org](https://create-next-app.js.org/#examples)
+1. Go to [https://create-next-app.js.org/#examples](https://create-next-app.js.org/#examples)
 2. Choose an example to bootstrap your app (such as basic-css)
 3. And then run `create-next-app my-app --example basic-css`
 4. Well done!
