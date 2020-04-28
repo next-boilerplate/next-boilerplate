@@ -36,7 +36,7 @@ You don't need to install or setup Webpack or Babel. They come with Next.js, so 
 
 To create a new Next.js app called <i>my-app</i> with `default` or `material` or `bootstrap` or `semantic` templates.
 
-1. Go to [https://create-next-app.js.org](https://create-next-app.js.org/#templates) templates
+1. Go to [Create Next App templates](https://create-next-app.js.org/#templates)
 2. Choose a template to create your Next.js app (such as default)
 3. And then run `create-next-app my-app --template default`
 4. Well done!
@@ -101,7 +101,7 @@ There are a bunch of examples in the Next.js repository that you can use to boot
 
 To bootstrap your app with example:
 
-1. Go to [https://create-next-app.js.org](https://create-next-app.js.org/#examples) examples
+1. Go to [Create Next App examples](https://create-next-app.js.org/#examples)
 2. Choose an example to bootstrap your app (such as basic-css)
 3. And then run `create-next-app my-app --example basic-css`
 4. Well done!
