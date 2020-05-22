@@ -1,12 +1,12 @@
 {
-  "name": "create-next-app-cli",
+  "name": "@create-next-app/core",
   "version": "1.0.1",
   "description": "Create Next App allows you to create a Next.js app by running one command.",
   "author": "Bunlong <bunlong.van@gmail.com>",
   "license": "MIT",
-  "repository": "https://github.com/Bunlong/create-next-app",
+  "repository": "https://github.com/create-next-app/create-next-app",
   "bugs": {
-    "url": "https://github.com/Bunlong/create-next-app/issues"
+    "url": "https://github.com/create-next-app/create-next-app/issues"
   },
   "keywords": [
     "next",
