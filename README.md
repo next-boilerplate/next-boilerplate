@@ -146,3 +146,11 @@ How to contribute:
 ## ⚖️ License
 
 The MIT License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+<!-- 
+  
+rm -rf /home/bunlong/.nvm/versions/node/v12.3.1/lib/node_modules/@create-next-app
+
+npm install --global /home/bunlong/workspace/os/create-next-app
+
+-->
