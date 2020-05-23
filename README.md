@@ -1,33 +1,34 @@
-# Create Next App [![NPM](https://img.shields.io/npm/v/create-next-app-cli.svg)](https://www.npmjs.com/package/create-next-app-cli)
+# Create Next App [![NPM](https://img.shields.io/npm/v/create-next-app.svg)](https://www.npmjs.com/package/create-next-app)
 
-Create Next App allows you to create a [Next.js](https://nextjs.org) app by running one command. It come with default, material, bootstrap and semantic templates and Next.js examples.
-
-Create Next App with no build configuration.
-
-  * [Create a Next App](#create-a-next-app-in-seconds) – How to create a new app.
-  * [Start Next Examples](#start-next-examples) – How to bootstrap a new app with Next.js example.
+Create Next App allows you to create a [Next.js](https://nextjs.org) app by running one command. It come with default, material, bootstrap, semantic... templates, Next.js examples and Next.js CMS.
 
 ## Features
 
-You can create a Next.js app by running one command with no build configuration that come with following features:
+  - Standard Template – providing a way to bootstrap your app with standard templates such as default, material, bootstrap, semantic, ... etc.
+  - Standard Example – providing a way to bootstrap your app with standard examples such as basic css, typescript, next css, next routes, redux, ... etc.
+  - Standard CMS – comming soon...
 
-  - Templates (default, material, bootstrap and semantic)
-  - Next.js examples
+## To learn how to use Create Next App
 
-## Install
+- [Home](https://create-next-app.js.org)
+- [Installation](https://create-next-app.js.org/installation)
+- [Templates](https://create-next-app.js.org/get-started-with-templates)
+- [Examples](https://create-next-app.js.org/get-started-with-examples)
 
-To use create-next-app command line interface you have to install `create-next-app-cli`.
+<!-- ## Install
 
-create-next-app-cli is available on npm. It can be installed with the following command:
+To use create-next-app command line interface you have to install `create-next-app`.
+
+create-next-app is available on npm. It can be installed with the following command:
 
 ```
-npm install --global create-next-app-cli
+npm install --global create-next-app
 ```
 
-create-next-app-cli is available on yarn as well. It can be installed with the following command:
+create-next-app is available on yarn as well. It can be installed with the following command:
 
 ```
-yarn global add create-next-app-cli
+yarn global add create-next-app
 ```
 
 You don't need to install or setup Webpack or Babel. They come with Next.js, so you can just start coding after running create-next-app command line.
@@ -108,17 +109,17 @@ To bootstrap your app with example:
 
 Now you maybe ready to code and deploy your app!
 
-<!-- ## User Guide
+## User Guide
 
 You can find detailed instructions on using Next.js and many tips in [its documentation](https://nextjs.org/docs/). -->
 
 ## 💖 Wrap Up
 
-If you think any of the `create-next-app-cli` can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to watch/star this repository to revisit.
+If you think any of the `create-next-app` can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to watch/star this repository to revisit.
 
 ## 🌟 Contribution
 
-We'd love to have your helping hand on contributions to `create-next-app-cli` by forking and sending a pull request!
+We'd love to have your helping hand on contributions to `create-next-app` by forking and sending a pull request!
 
 Your contributions are heartily ♡ welcome, recognized and appreciated. (✿◠‿◠)
 
