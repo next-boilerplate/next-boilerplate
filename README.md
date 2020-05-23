@@ -1,10 +1,10 @@
-# Create Next App [![NPM](https://img.shields.io/npm/v/create-next-app.svg)](https://www.npmjs.com/package/create-next-app)
+# Create Next App [![NPM](https://img.shields.io/npm/v/@create-next-app/core.svg)](https://www.npmjs.com/package/@create-next-app/core)
 
 Create Next App allows you to create a [Next.js](https://nextjs.org) app by running one command. It come with default, material, bootstrap, semantic... templates, Next.js examples and Next.js CMS.
 
 ## Features
 
-  - Standard Template – providing a way to bootstrap your app with standard templates such as default, material, bootstrap, semantic, ... etc.
+  - Standard Template – providing a way to create your app with standard templates such as default, material, bootstrap, semantic, ... etc.
   - Standard Example – providing a way to bootstrap your app with standard examples such as basic css, typescript, next css, next routes, redux, ... etc.
   - Standard CMS – comming soon...
 
