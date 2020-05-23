@@ -6,7 +6,7 @@ const chalk = require('chalk')
 const lib = require('..')
 
 const consoles = lib.consoles
-const createNextAppCLI = lib.createNextAppCLI
+const createNextApp = lib.createNextApp
 
 let projectName
 let templateName
@@ -27,7 +27,7 @@ program
 const example = program.example
 const template = program.template
 
-createNextAppCLI({
+createNextApp({
   projectName,
   template,
   example

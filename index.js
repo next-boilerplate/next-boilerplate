@@ -1,8 +1,8 @@
-const createNextAppCLI = require('./lib')
+const createNextApp = require('./lib')
 
 const consoles = require('./lib/consoles')
 
 module.exports = {
-  createNextAppCLI: createNextAppCLI,
+  createNextApp: createNextApp,
   consoles: consoles
 }
