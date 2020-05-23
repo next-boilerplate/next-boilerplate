@@ -35,12 +35,12 @@ class Index extends React.Component {
 
     return (
       <div>
-        <Head title="Create Next App CLI" />
+        <Head title="Create Next App" />
         <Nav />
         <div className={classes.root}>
           <div>
             <Typography variant="h3" gutterBottom>
-              Welcome to create-next-app-cli (Create Next.js App building tools)
+              Welcome to Create Next App (Create Next.js App building tools)
             </Typography>
             <Typography variant="body1" gutterBottom className={classes.description}>
               To get started, edit <code>pages/index.js</code> and save to reload.
@@ -50,7 +50,7 @@ class Index extends React.Component {
             <Grid item xs={2} sm={2}>
               <Paper className={classes.papper}>
                 <p>
-                  <Link href="https://nextjs.org/docs/">
+                  <Link href="//nextjs.org/docs/">
                     <a className="card">
                       <h3>Getting Started &rarr;</h3>
                     </a>
@@ -64,9 +64,9 @@ class Index extends React.Component {
             <Grid item xs={2} sm={2}>
               <Paper className={classes.papper}>
                 <p>
-                  <Link href="https://github.com/themodernjavascript/create-next-app-cli">
+                  <Link href="//github.com/create-next-app/create-next-app">
                     <a className="card">
-                      <h3>Create Next App CLI &rarr;</h3>
+                      <h3>Create Next App &rarr;</h3>
                     </a>
                   </Link>
                 </p>
@@ -78,7 +78,7 @@ class Index extends React.Component {
             <Grid item xs={2} sm={2}>
               <Paper className={classes.papper}>
                 <p>
-                  <Link href="https://material-ui.com/">
+                  <Link href="//material-ui.com/">
                     <a className="card">
                       <h3>Material UI &rarr;</h3>
                     </a>
