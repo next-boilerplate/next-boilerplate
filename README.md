@@ -8,10 +8,23 @@ Create Next App allows you to create a [Next.js](https://nextjs.org) app by runn
   - Standard Example – providing a way to bootstrap your app with standard examples such as basic css, typescript, next css, next routes, redux, ... etc.
   - Standard CMS – comming soon...
 
+## Installation
+
+Create Next App can be installed via npm:
+
+```
+npm install --global @create-next-app/core
+```
+
+Create Next App can be installed via yarn:
+
+```
+yarn global add @create-next-app/core
+```
+
 ## To learn how to use Create Next App
 
 - [Home](https://create-next-app.js.org)
-- [Installation](https://create-next-app.js.org/installation)
 - [Templates](https://create-next-app.js.org/get-started-with-templates)
 - [Examples](https://create-next-app.js.org/get-started-with-examples)
 
